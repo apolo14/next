@@ -1,4 +1,15 @@
 {
+  "name": "testando_isso_aqui",
+  "version": "0.0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apolo14/next.git"
+  },
   "dependencies": {
     "next": "^13.1.3",
     "react": "^18.2.0",
